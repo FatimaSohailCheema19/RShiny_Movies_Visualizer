@@ -87,6 +87,7 @@ The sidebar panel provides interactive controls:
 ---
 
 ## 🖼️ Application Screenshot
+<img width="1920" height="1080" alt="movies" src="https://github.com/user-attachments/assets/461baec3-6ca7-489b-bd07-ed30e342c455" />
 
 
 ---
