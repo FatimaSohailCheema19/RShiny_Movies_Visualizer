@@ -86,6 +86,10 @@ The sidebar panel provides interactive controls:
 
 ---
 
+## 🖼️ Application Screenshot
+
+
+---
 ## 🎮 How to Run the App
 
 ### Step 1: Install Required Packages
