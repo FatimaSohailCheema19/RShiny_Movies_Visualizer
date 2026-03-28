@@ -92,7 +92,7 @@ The sidebar panel provides interactive controls:
 
 ```r
 install.packages(c("shiny", "ggplot2", "dplyr"))
-``r
+```
 ---
 ## 👩‍💻 Author
 
